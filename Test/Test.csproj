@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SmartA4\SmartA4.csproj" />
+    <ProjectReference Include="..\DH.NSmartA4\DH.NSmartA4.csproj" />
   </ItemGroup>
 
 </Project>
